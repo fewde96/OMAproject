@@ -169,9 +169,9 @@ public class Workspace extends Thread {
 		// TODO Auto-generated method stub
 		// Necessario copiare la struttura dati per evitare sovrascritture da parte dei thread
 		// Esecuzione della localSearch
+		// modifica prova commit
 		
 	}
 }
-
 
 
